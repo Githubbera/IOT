@@ -11,8 +11,11 @@ namespace MyProject
 		static void Main(string[] args)
 		{
 			Console.WriteLine("Hola Aleyois");
-			Console.ReadLine(); 
-		  
+			Console.ReadLine();
+			Console.WriteLine("Hola Aleyois");
+			Console.ReadLine();
+
+
 		}
 	}
 }
